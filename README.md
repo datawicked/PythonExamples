@@ -1,4 +1,4 @@
-# PythonExamples
+# Python Machine Learning Workflow
 This example illustrates fitting and comparing several Machine Learning algorithms for classifying the binary label 'left' in the Human Resource data set.<br>
 The steps include:<br>
 PREPARE AND EXPLORE<br>
